@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+	"group": "fence_gate",
+    "pattern": [
+        "   ",
+        "L L",
+        "L L"
+    ],
+    "key": {
+		"L": {
+            "item": "minecraft:acacia_log"
+        }
+    },
+    "result": {
+        "item": "minecraft:acacia_fence_gate",
+        "count": 4
+    }
+}

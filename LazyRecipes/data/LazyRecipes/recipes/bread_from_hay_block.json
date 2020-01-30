@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:hay_block"
+        },
+		{
+            "item": "minecraft:hay_block"
+        },
+		{
+            "item": "minecraft:hay_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:bread",
+        "count": 9
+    }
+}
