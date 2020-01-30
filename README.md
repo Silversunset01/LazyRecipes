@@ -1,4 +1,4 @@
-# Custom Recipes - 1.15.1
+# LazyRecipes - 1.15.1
 This datapack creates custom recipes for Minecraft, tested on version 1.15.1  
 If you allow access to the `/minecraft:recipe give` command all will show in the users recipe book.
 
