@@ -9,7 +9,7 @@ LazyRecipes currently contains:
 * Craft torches from blocks of coal & planks
 * Craft chiseled stone bricks from raw stone
 * Craft books from sugar cane
-![](https://raw.githubusercontent.com/Silversunset01/LazyRecipes/master/Screenshots/book_from_sugar_cane.PNG)
+![](https://raw.githubusercontent.com/Silversunset01/LazyRecipes/master/Screenshots/book_from_sugar_cane.PNG)  
 * Craft bread from hay bales
 * Craft buckets from iron blocks
 * Craft chests from all log types
