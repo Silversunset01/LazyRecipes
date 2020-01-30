@@ -18,4 +18,6 @@ LazyRecipes currently contains:
 * Craft wooden fencing from all log types
 * Craft wooden fence gates from all log types
 * Craft wooden stairs from all log types
-* Craft wooden slabes from all log types
+* Craft wooden slabes from all log types  
+
+![](https://raw.githubusercontent.com/Silversunset01/LazyRecipes/master/Screenshots/1151LRSummary.PNG)
