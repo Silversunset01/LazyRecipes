@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+	"group": "wooden_slab",
+    "pattern": [
+        "   ",
+        "   ",
+        "LLL"
+    ],
+    "key": {
+		"L": {
+            "tag": "minecraft:jungle_logs"
+        }
+    },
+    "result": {
+        "id": "minecraft:jungle_slab",
+        "count": 24
+    }
+}

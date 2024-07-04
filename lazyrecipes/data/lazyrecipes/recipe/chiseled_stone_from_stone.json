@@ -1,0 +1,28 @@
+{
+   "type": "crafting_shapeless",
+   "ingredients": [
+	   {
+		   "item": "minecraft:stone"
+	   },{
+		   "item": "minecraft:stone"
+	   },{
+		   "item": "minecraft:stone"
+	   },{
+		   "item": "minecraft:stone"
+	   },{
+		   "item": "minecraft:stone"
+	   },{
+		   "item": "minecraft:stone"
+	   },{
+		   "item": "minecraft:stone"
+	   },{
+		   "item": "minecraft:stone"
+	   },{
+		   "item": "minecraft:stone"
+	   }
+   ],
+   "result": {
+	   "id": "minecraft:chiseled_stone_bricks",
+	   "count": 9
+   }
+}

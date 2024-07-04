@@ -1,0 +1,17 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "   ",
+        " L ",
+        " L "
+    ],
+    "key": {
+	"L": {
+            "tag": "minecraft:logs"
+        }
+    },
+    "result": {
+        "id": "minecraft:stick",
+        "count": 16
+    }
+}
