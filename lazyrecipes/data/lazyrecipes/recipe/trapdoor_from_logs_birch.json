@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+	"group": "wooden_trapdoor",
+    "pattern": [
+        "111",
+        "111",
+        "   "
+    ],
+    "key": {
+		"1": {
+            "tag": "minecraft:birch_logs"
+        }
+    },
+    "result": {
+        "id": "minecraft:birch_trapdoor",
+        "count": 12
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+	"group": "wooden_trapdoor",
+    "pattern": [
+        "111",
+        "111",
+        "   "
+    ],
+    "key": {
+		"1": {
+            "tag": "minecraft:dark_oak_logs"
+        }
+    },
+    "result": {
+        "id": "minecraft:dark_oak_trapdoor",
+        "count": 12
+    }
+}

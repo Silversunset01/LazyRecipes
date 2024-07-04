@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+	"group": "wooden_trapdoor",
+    "pattern": [
+        "111",
+        "111",
+        "   "
+    ],
+    "key": {
+		"1": {
+            "tag": "minecraft:jungle_logs"
+        }
+    },
+    "result": {
+        "id": "minecraft:jungle_trapdoor",
+        "count": 12
+    }
+}
