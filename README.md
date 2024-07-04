@@ -1,4 +1,4 @@
-# LazyRecipes - 1.15.1
+# LazyRecipes - 1.21
 Have you ever wanted to craft a ton of torches to mob-proof a forest but hated having to do a bunch of intermediate tedious steps to get there? Now you can be lazy and bulk-craft items without those pesky extra steps. 
 
 *Note: This does not introduce any 'cheaty' recipes, simply removes the extra steps to craft.*  
