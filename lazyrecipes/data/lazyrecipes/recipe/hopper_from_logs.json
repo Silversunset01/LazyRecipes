@@ -11,7 +11,7 @@
             "item": "minecraft:iron_ingot"
         },
         "2": {
-            "item": "minecraft:logs"
+            "tag": "minecraft:logs"
         }
     },
     "result": {
