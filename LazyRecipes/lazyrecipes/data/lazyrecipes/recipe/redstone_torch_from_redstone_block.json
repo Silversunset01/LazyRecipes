@@ -1,0 +1,21 @@
+{
+   "type": "crafting_shapeless",
+   "ingredients": [
+	   {
+		   "item": "minecraft:redstone_block"
+	   },
+	   {
+		   "tag": "minecraft:planks"
+	   },
+	   {
+		   "tag": "minecraft:planks"
+	   },
+	   {
+		   "item": "minecraft:stick"
+	   }
+   ],
+   "result": {
+	   "id": "minecraft:redstone_torch",
+	   "count": 9
+   }
+}

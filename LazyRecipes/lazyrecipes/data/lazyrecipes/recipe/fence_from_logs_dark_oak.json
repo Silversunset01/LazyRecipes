@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+	"group": "fence",
+    "pattern": [
+        "   ",
+        "LLL",
+        "L L"
+    ],
+    "key": {
+        "L": {
+            "tag": "minecraft:dark_oak_logs"
+        }
+    },
+    "result": {
+        "id": "minecraft:dark_oak_fence",
+        "count": 12
+    }
+}

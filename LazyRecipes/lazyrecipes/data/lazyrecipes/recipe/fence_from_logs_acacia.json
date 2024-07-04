@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+	"group": "fence",
+    "pattern": [
+        "   ",
+        "LLL",
+        "L L"
+    ],
+    "key": {
+        "L": {
+            "tag": "minecraft:acacia_logs"
+        }
+    },
+    "result": {
+        "id": "minecraft:acacia_fence",
+        "count": 12
+    }
+}
