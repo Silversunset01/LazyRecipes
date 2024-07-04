@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:leather"
+        },
+        {
+            "item": "minecraft:sugar_cane"
+        },
+		{
+            "item": "minecraft:sugar_cane"
+        },
+		{
+            "item": "minecraft:sugar_cane"
+        }
+    ],
+    "result": {
+        "id": "minecraft:book",
+        "count": 1
+    }
+}
